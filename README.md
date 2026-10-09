@@ -41,3 +41,19 @@ results/
 └── tables/       # Results
 
 src/              # Reusable python functions
+
+
+## Software environment
+
+The analysis uses Python 3.11 and a Conda environment named
+`cancer-genomics-tcga-kirc`.
+
+Exact package versions are recorded in
+[`environment.yml`](environment.yml), including `pandas`, `seaborn`,
+`matplotlib`, `statsmodels`, and `lifelines`.
+
+To recreate the environment on another computer:
+
+```bash
+conda env create -f environment.yml
+conda activate cancer-genomics-tcga-kirc
