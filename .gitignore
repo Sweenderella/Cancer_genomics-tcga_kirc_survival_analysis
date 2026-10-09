@@ -218,3 +218,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project data files: stored locally / in Google Drive, never on GitHub
+data/raw/
+data/processed/
+data/external/
+
+# macOS Finder metadata
+.DS_Store
