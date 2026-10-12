@@ -1,0 +1,4 @@
+predictor,hazard_ratio,lower_95_CI,upper_95_CI,p_value
+age_per_10_years,1.36,1.176,1.572,0.0
+male,0.991,0.721,1.361,0.953
+high_grade,1.614,1.116,2.333,0.011

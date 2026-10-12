@@ -1,0 +1,13 @@
+time_transform,covariate,test_statistic,p_value
+rank,age_per_10_years,5.6375,0.0176
+rank,high_grade,2.746,0.0975
+rank,male,0.7013,0.4023
+km,age_per_10_years,0.0078,0.9296
+km,high_grade,0.2601,0.6101
+km,male,0.0542,0.8159
+identity,age_per_10_years,0.2196,0.6394
+identity,high_grade,0.2575,0.6119
+identity,male,0.0124,0.9115
+log,age_per_10_years,1.4017,0.2364
+log,high_grade,0.1239,0.7249
+log,male,0.1447,0.7037
