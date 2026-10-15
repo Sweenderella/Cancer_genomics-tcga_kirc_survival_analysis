@@ -12,7 +12,7 @@ Does immune- and inflammation-related gene expression add prognostic information
 
 ## Primary dataset
 
-TCGA-KIRC — The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma cohort
+TCGA-KIRC : The Cancer Genome Atlas Kidney Renal Clear Cell Carcinoma cohort
 
 The primary analysis will use tumor gene-expression and clinical data from patients with clear cell renal cell carcinoma.
 
@@ -22,7 +22,7 @@ Data sources:
 - [Genomic Data Commons (GDC) Data Portal](https://portal.gdc.cancer.gov/)
 - [UCSC Xena](https://xena.ucsc.edu/)
 
-## Reproducible external validation
+## External validation
 Selected findings will be assessed in the independent E-MTAB-1980 ccRCC cohort. This cohort uses a different gene-expression platform, allowing us to assess whether the direction of a finding is reproducible.
 
 ## Repository structure
@@ -40,7 +40,7 @@ results/
 ├── models/       # Model outputs
 └── tables/       # Results
 
-src/              # Reusable python functions
+src/              # Python functions
 
 
 ## Software environment
@@ -52,7 +52,7 @@ Exact package versions are recorded in
 [`environment.yml`](environment.yml), including `pandas`, `seaborn`,
 `matplotlib`, `statsmodels`, and `lifelines`.
 
-To recreate the environment on another computer:
+To recreate the environment on your computer:
 
 ```bash
 conda env create -f environment.yml
