@@ -1,0 +1,15 @@
+gene_group,gene_name,gene_id,ref.
+Effector T-cell activity,CD8A,ENSG00000153563.16,https://www.mdpi.com/2227-9059/10/2/323
+Effector T-cell activity,IFNG,ENSG00000111537.5,https://www.mdpi.com/2227-9059/10/2/323
+Effector T-cell activity,GZMA,ENSG00000145649.8,https://www.mdpi.com/2227-9059/10/2/323
+Effector T-cell activity,GZMB,ENSG00000100453.13,https://www.mdpi.com/2227-9059/10/2/323
+Effector T-cell activity,PRF1,ENSG00000180644.8,https://www.mdpi.com/2227-9059/10/2/323
+Effector T-cell activity,EOMES,ENSG00000163508.13,https://www.mdpi.com/2227-9059/10/2/323
+Immune checkpoint,CD274,ENSG00000120217.14,https://www.mdpi.com/2227-9059/10/2/323
+Immune checkpoint,CTLA4,ENSG00000163599.17,https://www.mdpi.com/2227-9059/10/2/323
+Immune checkpoint,TIGIT,ENSG00000181847.12,https://www.mdpi.com/2227-9059/10/2/323
+Myeloid inflammation,CXCL1,ENSG00000163739.5,https://www.mdpi.com/2227-9059/10/2/323
+Myeloid inflammation,CXCL2,ENSG00000081041.9,https://www.mdpi.com/2227-9059/10/2/323
+Myeloid inflammation,CXCL3,ENSG00000163734.4,https://www.mdpi.com/2227-9059/10/2/323
+Myeloid inflammation,IL6,ENSG00000136244.12,https://www.mdpi.com/2227-9059/10/2/323
+Myeloid inflammation,PTGS2,ENSG00000073756.12,https://www.mdpi.com/2227-9059/10/2/323
