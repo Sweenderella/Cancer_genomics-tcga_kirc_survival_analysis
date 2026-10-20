@@ -1,0 +1,3 @@
+analysis,patients,deaths,hazard_ratio_per_SD,lower_95_CI,upper_95_CI,p_value
+Primary analysis: all matched patients,518,171,1.3501702055257698,1.175010352827403,1.551441295391951,2.287541872937992e-05
+Sensitivity: exclude multi-file patients,514,171,1.3486717024123758,1.1736575403166207,1.5497837302670099,2.4661252750114722e-05
