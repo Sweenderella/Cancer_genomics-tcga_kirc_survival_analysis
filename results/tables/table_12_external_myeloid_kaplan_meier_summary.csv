@@ -1,0 +1,3 @@
+myeloid_group,patients,deaths,median_score,logrank_p_value
+Higher myeloid score,45,15,0.7422163669792933,0.036655728192763415
+Lower myeloid score,56,8,-0.6402519483294808,0.036655728192763415

@@ -1,0 +1,2 @@
+variable,hazard_ratio_per_SD,lower_95_CI,upper_95_CI,p_value,patients,deaths,concordance_index
+myeloid_score_per_sd,1.6699988546995017,1.1222057001251178,2.485191595789173,0.011457740875764422,101,23,0.6550741163055872
