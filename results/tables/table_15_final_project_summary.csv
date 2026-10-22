@@ -1,0 +1,5 @@
+result_type,cohort_or_analysis,patients,deaths,estimate,confidence_interval,p_value
+Clinical survival cohort,TCGA-KIRC clinical cohort,522,173,Clinical survival-analysis cohort,,
+Expression-matched cohort,TCGA-KIRC matched cohort,518,171,RNA-seq expression available,,
+Primary survival association,TCGA-KIRC discovery cohort,518,171,HR 1.35 per 1-SD higher myeloid score,1.18–1.55,0.0001
+External validation,E-MTAB-1980 external cohort,101,23,HR 1.67 per 1-SD higher myeloid score,1.12–2.49,0.0114577408757644
